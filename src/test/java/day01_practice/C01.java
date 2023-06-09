@@ -50,6 +50,6 @@ public class C01 {
             System.out.println(driver.getTitle());
             driver.navigate().back();
         }
-
     }
+
 }
